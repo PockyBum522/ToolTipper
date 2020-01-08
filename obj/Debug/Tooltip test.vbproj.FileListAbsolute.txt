@@ -1,0 +1,22 @@
+D:\Dropbox\Documents\Teak Isle Documents\Programming\VB NET\Toooltip Test\Tooltip test\bin\Debug\Tooltip test.exe.config
+D:\Dropbox\Documents\Teak Isle Documents\Programming\VB NET\Toooltip Test\Tooltip test\bin\Debug\Tooltip test.exe
+D:\Dropbox\Documents\Teak Isle Documents\Programming\VB NET\Toooltip Test\Tooltip test\bin\Debug\Tooltip test.pdb
+D:\Dropbox\Documents\Teak Isle Documents\Programming\VB NET\Toooltip Test\Tooltip test\bin\Debug\Tooltip test.xml
+D:\Dropbox\Documents\Teak Isle Documents\Programming\VB NET\Toooltip Test\Tooltip test\obj\Debug\Tooltip test.vbprojAssemblyReference.cache
+D:\Dropbox\Documents\Teak Isle Documents\Programming\VB NET\Toooltip Test\Tooltip test\obj\Debug\Tooltip_test.Resources.resources
+D:\Dropbox\Documents\Teak Isle Documents\Programming\VB NET\Toooltip Test\Tooltip test\obj\Debug\Tooltip test.vbproj.GenerateResource.cache
+D:\Dropbox\Documents\Teak Isle Documents\Programming\VB NET\Toooltip Test\Tooltip test\obj\Debug\Tooltip test.exe
+D:\Dropbox\Documents\Teak Isle Documents\Programming\VB NET\Toooltip Test\Tooltip test\obj\Debug\Tooltip test.xml
+D:\Dropbox\Documents\Teak Isle Documents\Programming\VB NET\Toooltip Test\Tooltip test\obj\Debug\Tooltip test.pdb
+D:\Dropbox\Documents\Teak Isle Documents\Programming\VB NET\Toooltip Test\Tooltip test\obj\Debug\Tooltip_test.TooltipForm.resources
+D:\Dropbox\Documents\Desktop\ToolTipper\ToolTipper\bin\Debug\Tooltip test.exe.config
+D:\Dropbox\Documents\Desktop\ToolTipper\ToolTipper\bin\Debug\Tooltip test.exe
+D:\Dropbox\Documents\Desktop\ToolTipper\ToolTipper\bin\Debug\Tooltip test.pdb
+D:\Dropbox\Documents\Desktop\ToolTipper\ToolTipper\bin\Debug\Tooltip test.xml
+D:\Dropbox\Documents\Desktop\ToolTipper\ToolTipper\obj\Debug\Tooltip test.vbprojAssemblyReference.cache
+D:\Dropbox\Documents\Desktop\ToolTipper\ToolTipper\obj\Debug\Tooltip_test.TooltipForm.resources
+D:\Dropbox\Documents\Desktop\ToolTipper\ToolTipper\obj\Debug\Tooltip_test.Resources.resources
+D:\Dropbox\Documents\Desktop\ToolTipper\ToolTipper\obj\Debug\Tooltip test.vbproj.GenerateResource.cache
+D:\Dropbox\Documents\Desktop\ToolTipper\ToolTipper\obj\Debug\Tooltip test.exe
+D:\Dropbox\Documents\Desktop\ToolTipper\ToolTipper\obj\Debug\Tooltip test.xml
+D:\Dropbox\Documents\Desktop\ToolTipper\ToolTipper\obj\Debug\Tooltip test.pdb
